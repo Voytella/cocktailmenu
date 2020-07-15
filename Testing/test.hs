@@ -12,7 +12,8 @@ import Text.JSON.Generic
 -- -----------END MODULES-----------
 
 -- store JSON data in Haskell data structure
-data Recipie = Recipie { title :: String } deriving (Show, Data, Typeable)
+--data Recipie = Recipie { title :: String } deriving (Show, Data, Typeable)
+import Recipie
 
 -- read JSON file and populate data structure
 getJSON :: String -> Recipie
