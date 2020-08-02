@@ -1,0 +1,21 @@
+{
+    "title" : "White Russian",
+    "source" : "The Big Lebowski",
+    "ingredients" : [
+        {
+            "item" : "vodka",
+            "quantity" : "2 oz"
+        },
+        {
+            "item" : "Kahlua",
+            "quantity" : "2 oz"
+        },
+        {
+            "item" : "heavy cream",
+            "quantity" : "1 oz"
+        }
+    ],
+    "steps" : [
+        "Pour the vodka into a chilled old fashioned glass followed by the Kahlua then the heavy cream."
+    ]
+}

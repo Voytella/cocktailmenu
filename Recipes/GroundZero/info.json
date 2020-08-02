@@ -1,0 +1,25 @@
+{
+    "title" : "Ground Zero",
+    "source" : "The Atomic Cocktail Party and Triva Book, by M. R. Maxwell",
+    "ingredients" : [
+        {
+            "item" : "vodka",
+            "quantity" : "1.5 oz"
+        },
+        {
+            "item" : "bourbon",
+            "quantity" : "1.5 oz"
+        },
+        {
+            "item" : "Kahlua",
+            "quantity" : "1.5 oz"
+        },
+        {
+            "item" : "peppermint schnapps",
+            "quantity" : "1.5 oz"
+        }
+    ],
+    "steps" : [
+        "Pour all the ingredients into a chilled old fashioned glass then stir."
+    ]
+}
